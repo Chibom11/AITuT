@@ -13,9 +13,7 @@ Environment Management: dotenv
 APIs Used: YouTube Data API, OpenAI API
 
 📂 Folder Structure (Backend)
-bash
-Copy
-Edit
+
 aitut-backend/
 │
 ├── agent/
@@ -44,10 +42,6 @@ Triggered when user requests a "summary".
 Produces 5 MCQs with options and marked correct answers.
 
 Formatted in a strict JSON response with prefix (QUIZ_$#%^&$24534).
-
-🌍 Transcript Translation
-
-Translates any transcript content to English.
 
 🔍 YouTube Video Search
 
