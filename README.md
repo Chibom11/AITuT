@@ -1,5 +1,5 @@
 AiTut 📚🧠
-AiTut is an AI-powered educational assistant built to help learners access summarized knowledge, generate quizzes, translate transcripts, and find relevant YouTube content.
+AiTut is an AI-powered educational assistant built to help learners access summarized knowledge, generate quizzes and find relevant YouTube content.
 
 🔧 Tech Stack
 Backend: LangGraph (agent + tools) with OpenAI GPT-4o
